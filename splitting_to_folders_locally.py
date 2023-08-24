@@ -1,6 +1,7 @@
 #the image data we got from kaggle was not devided to the classes 'benign' and 'malignant'.
 #in this notebook we seperate the classes locally, before uploading it to the drive.
 #this version of the notebook is for sorting the data in one folder. we used the same notebook for different folders, only changing the paths as needed.
+#writing this code, we used the `os` and `shutil` modules for the first time, learning they are used for interacting with the operating system and performing file operations.
 import os
 import shutil
 import pandas as pd
