@@ -23,7 +23,7 @@ In [load model and prediction](https://github.com/miniProjectMelanoma/Melanoma-C
 
 The prediction is complicated due to the absence of the test class labels. Once we successfully load the saved model, our prediction process will be guided by labeled results from [this web source](https://github.com/Masdevallia/3rd-place-kaggle-siim-isic-melanoma-classification).
 
-For further expansion of our work, [ML Classification](https://github.com/miniProjectMelanoma/Melanoma-Classification/blob/main/ML%20Classification.ipynb) contains a code that organizes the tabular metadata, adds 2 collumns of data provided by a cnn model classification training as new features and evaluates machine learning models such as Random Forest, AdaBoost and Decision Tree, as possible models for the final classification.
+For further expansion of our work, [ML Classification](https://github.com/miniProjectMelanoma/Melanoma-Classification/blob/main/ML%20Classification.ipynb) contains a code that organizes the tabular metadata and evaluates machine learning models such as Random Forest, AdaBoost and Decision Tree, as possible models for the final classification. When the loaded cnn model will provide better results, we could add the predictions as a feature to the metadata and see how it might improve the results of the  classification.
 
 
 ## Acknowledgements
