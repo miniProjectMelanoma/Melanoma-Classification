@@ -41,6 +41,7 @@ For further expansion of our work, [ML Classification](https://github.com/miniPr
 ## Documentation
 
 - [Documentation of train-validation](https://github.com/miniProjectMelanoma/Melanoma-Classification/blob/main/Documentation%20of%20train-validation.txt) contains documentation of the names of the images in the project in the following format:
+
 Name of the image.jpg Name of the category
 
 Name of the image.jpg Name of the category
