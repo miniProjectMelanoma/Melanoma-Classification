@@ -54,10 +54,4 @@ Name of the image.jpg Name of the category
 
 Name of the image.jpg Name of the category
 
-.
-
-.
-
-.
-
 Because it will be possible to easily reproduce the results of our training.
