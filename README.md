@@ -66,6 +66,15 @@ The code in this notebook:
   - Enters a loop for two categories. For each category, it loads images, converts them to arrays, and preprocesses them.
   - Displays the loaded image using `matplotlib`.
   - Uses the trained `model` to predict the image's category and prints prediction results, showing predicted probabilities for each class.
+
+## Documentation of train-validation
+
+Contains documentation of the names of the images in the project in the following format:
+Name of the image.jpg Name of the category
+Name of the image.jpg Name of the category
+Name of the image.jpg Name of the category
+Because it will be possible to easily reproduce the results of our training.
+
 ## Acknowledgements
 
  - [SIIM-ISIC Melanoma Classification - A kaggle competition](https://https://www.kaggle.com/competitions/siim-isic-melanoma-classification/overview)
